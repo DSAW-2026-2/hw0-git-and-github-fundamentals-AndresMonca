@@ -106,3 +106,44 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+# Name
+
+Edwin Andres Montaño Castañeda
+
+# GitHub Profile Link
+
+https://github.com/AndresMonca
+
+# Semester Goal
+
+Quiero mejorar mis habilidades con el conocimiento que se me brindara en la clase, espero que sea una clase completamente guiada en la practica, no solo tener que escuchar y observar.
+
+# Git Configuration
+
+Fragmento de mi archivo `.gitconfig`:
+
+```ini
+[user]
+    name = Edwin Andres Montaño Castañeda
+    email = edwinmonca@unisabana.edu.co
+```
+
+# AI Log
+
+Durante esta tarea utilicé IA como guía para comprender los pasos necesarios para completar la actividad de GitHub Fundamentals. La IA me ayudó a entender cómo utilizar Git correctamente, especialmente el proceso de guardar cambios mediante commits y enviarlos al repositorio remoto.
+
+## Command:
+
+```bash
+git commit -m "mensaje del commit"
+```
+
+## AI Explanation:
+
+El comando `git commit` guarda los cambios que fueron preparados previamente con `git add` dentro del historial local del repositorio. El mensaje escrito después de `-m` permite describir qué cambios se realizaron en ese commit y facilita identificar las modificaciones realizadas en cada versión del proyecto.
+
+## Did it match what happened?
+
+Sí, la explicación coincidió con lo que ocurrió al ejecutar el comando. Después de realizar el commit, los cambios quedaron registrados en el historial del repositorio y posteriormente pudieron ser enviados a GitHub mediante el comando `git push`.
