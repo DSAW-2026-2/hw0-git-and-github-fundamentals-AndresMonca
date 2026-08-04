@@ -118,17 +118,17 @@ https://github.com/AndresMonca
 
 # Semester Goal
 
-Quiero mejorar mis habilidades con el conocimiento que se me brindara en la clase, espero que sea una clase completamente guiada en la practica, no solo tener que escuchar y observar.
+Quiero mejorar mis habilidades con el conocimiento que me brindara mi profesor, espero no sea una clase donde solo haya que observar y escuchar, espero sea guiada en su mayoria bajo la practica.
 
 # Git Configuration
 
-Fragmento de mi archivo `.gitconfig`:
-
-```ini
+```gitconfig
 [user]
     name = Edwin Andres Montaño Castañeda
     email = edwinmonca@unisabana.edu.co
 ```
+
+Estas configuraciones son importantes porque Git las utiliza para identificar al autor de cada commit. El nombre y el correo permiten registrar quién realizó los cambios dentro del historial del repositorio.
 
 # AI Log
 
