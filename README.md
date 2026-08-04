@@ -107,7 +107,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-
 # Name
 
 Edwin Andres Montaño Castañeda
@@ -118,7 +117,7 @@ https://github.com/AndresMonca
 
 # Semester Goal
 
-Quiero mejorar mis habilidades con el conocimiento que me brindara mi profesor, espero no sea una clase donde solo haya que observar y escuchar, espero sea guiada en su mayoria bajo la practica.
+I want to improve my skills with the knowledge that my professor will provide. I hope this is not a class where we only have to observe and listen; I hope it is mostly guided through practical work.
 
 # Git Configuration
 
@@ -128,22 +127,22 @@ Quiero mejorar mis habilidades con el conocimiento que me brindara mi profesor, 
     email = edwinmonca@unisabana.edu.co
 ```
 
-Estas configuraciones son importantes porque Git las utiliza para identificar al autor de cada commit. El nombre y el correo permiten registrar quién realizó los cambios dentro del historial del repositorio.
+These settings are important because Git uses them to identify the author of each commit. The name and email allow Git to record who made the changes in the repository history.
 
 # AI Log
 
-Durante esta tarea utilicé IA como guía para comprender los pasos necesarios para completar la actividad de GitHub Fundamentals. La IA me ayudó a entender cómo utilizar Git correctamente, especialmente el proceso de guardar cambios mediante commits y enviarlos al repositorio remoto.
+During this assignment, I used AI as a guide to understand the steps required to complete the GitHub Fundamentals activity. The AI helped me understand how to use Git correctly, especially the process of saving changes through commits and sending them to the remote repository.
 
 ## Command:
 
 ```bash
-git commit -m "mensaje del commit"
+git commit -m "commit message"
 ```
 
 ## AI Explanation:
 
-El comando `git commit` guarda los cambios que fueron preparados previamente con `git add` dentro del historial local del repositorio. El mensaje escrito después de `-m` permite describir qué cambios se realizaron en ese commit y facilita identificar las modificaciones realizadas en cada versión del proyecto.
+The `git commit` command saves the changes that were previously prepared with `git add` into the local repository history. The message written after `-m` describes what changes were made in that commit and helps identify the modifications made in each version of the project.
 
 ## Did it match what happened?
 
-Sí, la explicación coincidió con lo que ocurrió al ejecutar el comando. Después de realizar el commit, los cambios quedaron registrados en el historial del repositorio y posteriormente pudieron ser enviados a GitHub mediante el comando `git push`.
+Yes, the explanation matched what happened when I executed the command. After creating the commit, the changes were recorded in the repository history and were later sent to GitHub using the `git push` command.
